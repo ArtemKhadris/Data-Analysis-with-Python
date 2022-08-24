@@ -1,4 +1,4 @@
-# Data-Analysis-with-Python
+# Data Analysis with Python
 ## Solutions of problems from the freeCodeCamp to obtain a certificate:
 [Mean Variance Standard Deviation Calculator](https://github.com/ArtemKhadris/freeCodeCamp-Mean-Variance-Standard-Deviation-Calculator)
 
